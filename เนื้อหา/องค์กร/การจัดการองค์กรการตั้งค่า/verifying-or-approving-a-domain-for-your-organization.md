@@ -1,3 +1,4 @@
+[trace_2021-09-02 16_56_12 929.txt](https://github.com/github/docs/files/8568019/trace_2021-09-02.16_56_12.929.txt)
 ---
 title: Verifying or approving a domain for your organization
 intro: 'You can verify your ownership of domains with {% data variables.product.company_short %} to confirm your organization''s identity. You can also approve domains that {% data variables.product.company_short %} can send email notifications to for members of your organization.'
